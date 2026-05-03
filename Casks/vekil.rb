@@ -1,6 +1,6 @@
 cask "vekil" do
-  version "0.10.1"
-  sha256 "e7d671dbfd6d9a3af5d3f1001d48ebd1779b4c6937b7e7ab90118245674fdff0"
+  version "0.10.2"
+  sha256 "930df663b4e94fd62ddc9baf35905e15818a9fe213c6ec5e25bdca6d69831eff"
 
   url "https://github.com/sozercan/vekil/releases/download/v#{version}/vekil-macos-arm64.zip"
   name "Vekil"
